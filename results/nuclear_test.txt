@@ -1,0 +1,10 @@
+U-238 s-wave levels 0-20 keV: 897, mean spacing D = 22.18 eV
+U-238: n=896 var=0.360 P(s<0.25)=0.0636 crit(5%)=0.0454
+   KS to GOE      0.0397  fits
+   KS to GUE      0.0984  rejected
+   KS to Poisson  0.2031  rejected
+zeros: n=896 var=0.143 P(s<0.25)=0.0045 crit(5%)=0.0454
+   KS to GOE      0.1100  rejected
+   KS to GUE      0.0442  fits
+   KS to Poisson  0.3229  rejected
+two-sample KS U-238 vs zeros: KstestResult(statistic=np.float64(0.13839285714285712), pvalue=np.float64(6.736742538669986e-08), statistic_location=np.float64(0.6924520058010463), statistic_sign=np.int8(1))
