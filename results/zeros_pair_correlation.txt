@@ -1,0 +1,14 @@
+x=0.125  empirical 0.020  GUE 0.050
+x=0.375  empirical 0.270  GUE 0.385
+x=0.625  empirical 0.840  GUE 0.779
+x=0.875  empirical 1.090  GUE 0.981
+x=1.125  empirical 0.820  GUE 0.988
+x=1.375  empirical 1.030  GUE 0.954
+x=1.625  empirical 0.900  GUE 0.967
+x=1.875  empirical 1.020  GUE 0.996
+x=2.125  empirical 0.980  GUE 0.997
+x=2.375  empirical 0.900  GUE 0.985
+x=2.625  empirical 1.120  GUE 0.987
+x=2.875  empirical 0.990  GUE 0.998
+P(s<0.25): 0.005  Poisson: 0.2212
+spacing variance: 0.138
