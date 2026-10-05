@@ -1,0 +1,12 @@
+GOE reference: n=899 var=0.293 P(s<0.25)=0.0467 crit(5%)=0.0454
+   KS to GOE      0.0229  fits
+   KS to GUE      0.0851  rejected
+   KS to Poisson  0.2232  rejected
+GUE reference: n=899 var=0.170 P(s<0.25)=0.0178 crit(5%)=0.0454
+   KS to GOE      0.0998  rejected
+   KS to GUE      0.0364  fits
+   KS to Poisson  0.2959  rejected
+Poisson reference: n=899 var=0.961 P(s<0.25)=0.2113 crit(5%)=0.0454
+   KS to GOE      0.2149  rejected
+   KS to GUE      0.2743  rejected
+   KS to Poisson  0.0213  fits
